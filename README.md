@@ -1,6 +1,6 @@
 # Bank Detection project
 
-## 중도포기 금지 X 포기하지 말고 끝까지 
+
 - 
 
 ## 팀원
