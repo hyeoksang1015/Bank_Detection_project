@@ -81,3 +81,11 @@
 -results	결과 이미지/CSV >> 결과 저장 / 그래프, csv 예측 결과, 발표자료용 이미지 등
 
 
+
+## 타임라인 링크
+
+https://docs.google.com/spreadsheets/d/1NocuXwYy9Iza1_G1YpYBtd3oT0mFwcIay8Yu1-EcQWU/edit?usp=sharing
+
+## 프로젝트 계획서 링크
+
+https://app.notion.com/p/38b7c483db0c80a1bc3ddc5eeabee43f?source=copy_link
