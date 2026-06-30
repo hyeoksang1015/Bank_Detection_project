@@ -70,6 +70,9 @@
 -results	결과 이미지/CSV >> 결과 저장 / 그래프, csv 예측 결과, 발표자료용 이미지 등
 
 
+## 회의록 링크
+
+https://www.notion.so/da1c5d49a2bf4348a4773eb912e8b3dc?v=180b67c8418147279ed1e38552057317&source=copy_link
 
 ## 타임라인 링크
 
